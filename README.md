@@ -1,44 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kartikey%20Srivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1a1a2e&height=220&section=header&text=Kartikey%20Srivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20LLM%20%7C%20Full-Stack&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+to+Exciting+Opportunities+%F0%9F%92%BC;Let%27s+Build+Something+Great+Together+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Software+Engineer+%F0%9F%A4%96;Building+LLM-Powered+Applications+%F0%9F%A7%A0;RAG+Pipelines+%7C+AI+Agents+%7C+Automation;18%2B+Production-Grade+Apps+Shipped+%F0%9F%9A%80;Full-Stack+%7C+Backend+Architecture+%7C+Deployment" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartikey--srivastava.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikey-srivastava.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikey--srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-srivastava-a93877232/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kartikey--srivastava.vercel.app-6C63FF?style=for-the-badge)](https://kartikey-srivastava.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-srivastava-a93877232/)
 [![GitHub](https://img.shields.io/badge/GitHub-srvkartikey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srvkartikey)
 
-<img src="https://komarev.com/ghpvc/?username=srvkartikey&label=Profile+Views&color=6C63FF&style=flat-square" alt="profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=srvkartikey&label=Profile+Views&color=a78bfa&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🤖 About Me
 
-```js
-const kartikey = {
-  name:       "Kartikey Srivastava",
-  role:       "Full-Stack Software Developer",
-  location:   "Noida, India 📍",
-  experience: "1+ year building production-grade apps",
-  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
-  portfolio:  "https://kartikey-srivastava.vercel.app/",
-  status:     "🟢 Open to new opportunities",
-};
+```python
+kartikey = {
+    "role"       : "AI Software Engineer",
+    "focus"      : ["LLM Applications", "RAG Pipelines", "AI Agents", "Full-Stack"],
+    "shipped"    : "18+ production-grade applications",
+    "ai_stack"   : ["OpenAI API", "LangChain", "FastAPI", "FAISS", "Pinecone", "n8n"],
+    "core_stack" : ["Node.js", "Python", "React", "MongoDB", "MySQL", "REST APIs"],
+    "location"   : "Noida, India 📍",
+    "status"     : "🟢 Open to AI / Full-Stack engineering roles",
+    "approach"   : "Architecture → Development → Deployment. End-to-end ownership."
+}
 ```
 
-- 🔭 &nbsp; Currently building **scalable web & mobile-ready applications** using the MERN stack
-- 🌱 &nbsp; Always learning — currently exploring **TypeScript, Next.js & System Design**
-- 🚀 &nbsp; Shipped projects: Task Manager, Music Recommendation System, QR Tool, Smart Bookmark App
-- 💬 &nbsp; Ask me about **React, Node.js, MongoDB, REST APIs, or full-stack architecture**
-- 📫 &nbsp; Reach me at **[LinkedIn](https://www.linkedin.com/in/kartikey-srivastava-a93877232/)** or check my **[Portfolio](https://kartikey-srivastava.vercel.app/)**
+> **Building intelligent systems that work in the real world** — LLM-powered apps, RAG pipelines, AI agents, scalable backends, and intuitive frontends. I own products from architecture to deployment.
+
+---
+
+## 🧠 What I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>🤖 AI Agents</strong><br/>
+      <sub>Autonomous agents with tool use, memory & multi-step reasoning</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>📚 RAG Pipelines</strong><br/>
+      <sub>Retrieval-Augmented Generation with vector DBs & custom embeddings</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>⚡ Automation Workflows</strong><br/>
+      <sub>End-to-end automation using n8n, webhooks & custom integrations</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>🏗️ Full-Stack Products</strong><br/>
+      <sub>Production apps from backend architecture to deployed frontend</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Frontend**
 
@@ -46,29 +87,22 @@ const kartikey = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Database & Cloud**
+**Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -78,14 +112,21 @@ const kartikey = {
   <tr>
     <td width="50%">
       <h3>🔖 Smart Bookmark App</h3>
-      <p>Full-stack bookmark manager built with <strong>Next.js App Router</strong> and <strong>Supabase</strong>. Google Auth, secure personal bookmarks, deployed on Vercel.</p>
+      <p>Full-stack bookmark manager with <strong>Next.js App Router</strong> + <strong>Supabase</strong>. Google Auth, secure personal bookmarks, deployed on Vercel.</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/srvkartikey/smart-bookmark-app">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
       <h3>📦 Job Importer System</h3>
-      <p>Scalable backend system to ingest jobs from external APIs with a clean, <strong>modular architecture</strong>. Built for reliability and scale.</p>
+      <p>Scalable backend system ingesting jobs from external APIs with <strong>modular architecture</strong>. Built for production reliability.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/srvkartikey/job-importer-system">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -94,14 +135,20 @@ const kartikey = {
   <tr>
     <td width="50%">
       <h3>🎵 Music Recommendation System</h3>
-      <p>Content-based recommender using the <strong>Spotify Million Song Dataset</strong> — suggests tracks based on audio features & metadata.</p>
+      <p>Content-based ML recommender using the <strong>Spotify Million Song Dataset</strong>. Suggests tracks via audio features & metadata similarity.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/srvkartikey/Music-recomedation-system">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
       <h3>📱 QR Tool</h3>
-      <p>Professional QR scanner app with <strong>user recording, feedback collection</strong> and secure data storage. Designed for businesses.</p>
+      <p>Professional QR scanner with <strong>user recording, feedback collection</strong> & secure data storage. Designed for business-grade usage.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/srvkartikey/QR-Tool-">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -115,13 +162,13 @@ const kartikey = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srvkartikey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvkartikey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=srvkartikey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srvkartikey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srvkartikey&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff9900&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srvkartikey&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff9900&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
 
 </div>
 
@@ -130,32 +177,32 @@ const kartikey = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=srvkartikey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srvkartikey&bg_color=0d1117&color=a78bfa&line=6C63FF&point=ffffff&area=true&hide_border=true" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💼 Let's Connect & Build Something Great
+### 💼 Let's Build Something Intelligent Together
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge)](https://kartikey-srivastava.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-srivastava-a93877232/)
+*AI Engineer · Full-Stack · 18+ shipped apps · End-to-end ownership*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge)](https://kartikey-srivastava.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-srivastava-a93877232/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1117,100:000000&height=100&section=footer" />
 
 </div>
