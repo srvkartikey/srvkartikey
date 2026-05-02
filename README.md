@@ -22,7 +22,7 @@
 
 ```python
 kartikey = {
-    "role"       : "AI Software Engineer",
+    "role"       : "Software Engineer",
     "focus"      : ["LLM Applications", "RAG Pipelines", "AI Agents", "Full-Stack"],
     "shipped"    : "18+ production-grade applications",
     "ai_stack"   : ["OpenAI API", "LangChain", "FastAPI", "FAISS", "Pinecone", "n8n"],
